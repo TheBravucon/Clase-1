@@ -1,0 +1,1 @@
+Basicamente es una rama de la inteligencia artificial que permite a las computadoras aprender y hacer predicciones sin ser programadas explícitamente para cada tarea. En lugar de seguir instrucciones rígidas, los sistemas de ML analizan datos, identifican patrones y mejoran su rendimiento con la experiencia.
